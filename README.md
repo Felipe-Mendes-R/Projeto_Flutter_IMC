@@ -1,3 +1,4 @@
-# projeto_imc
+# Projeto Calculo IMC
 
-A new Flutter project.
+ Projeto Calculo IMC realizado em Sala
+ Feito por: Felipe Mendes Reinoso
